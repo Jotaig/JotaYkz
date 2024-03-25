@@ -1,0 +1,55 @@
+h1{
+    background-color: rgb(237, 237, 237);
+    color: rgb(19, 130, 199);
+    padding: 10px 0%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header{
+    background-color: rgb(81, 0, 255);
+    color: rgb(0, 0, 0);
+    padding: 10px 0%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+form{
+    width: 40%;
+    margin: 0 auto;
+    background-color: rgb(21, 255, 0);
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgb(255, 255, 255);
+}
+
+form > input{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 20px;
+}
+
+input{
+    background-color: rgb(237, 237, 237);
+    color: rgb(19, 130, 199);
+    
+}
+
+h2{
+    background-color: rgb(237, 237, 237);
+    color: rgb(19, 130, 199); 
+    padding: 10px 0%;
+}
+
+footer{
+    background-color: rgb(81, 0, 255);
+    color: rgb(81, 0, 225);
+    padding: 10px 0%;
+    text-align: center;
+    margin-bottom: 20px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
